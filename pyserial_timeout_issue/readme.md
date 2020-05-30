@@ -1,4 +1,4 @@
-Opening port COM12... success! 
+Opening port COM12... success!
 Running 3 cycles, each with 100 write() operations:
   .. cycle #001: 0.437 secs vs. 3.156 secs
   .. cycle #002: 0.438 secs vs. 3.140 secs
